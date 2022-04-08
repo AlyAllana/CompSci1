@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=FahrenheitToCelsius
+comment1.params=input
+comment1.target=void\ fahrenheitToCelsiusVoid(double)
+comment2.params=input
+comment2.target=double\ fahrenheitToCelsiusReturn(double)
+numComments=3
